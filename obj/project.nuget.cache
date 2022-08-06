@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/50/PWGcJp3ivR5lWRoYUtHgjCr+njexFuKzLIb3g8Xk8Gl549GFCEH2Cxdj98iWND6WTl9VTQQxsu8yWN8URg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CesarCent\\CesarCentProjects\\SpotifyConsole\\SpotifyConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CesarCent\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\CesarCent\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
